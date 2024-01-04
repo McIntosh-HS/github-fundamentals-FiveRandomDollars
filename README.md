@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub 
-Mr Murry has cause an incident withthe federal government over tax issues.
+Mr Murry has cause an incident with the federal government over tax issues.
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
